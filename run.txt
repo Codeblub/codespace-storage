@@ -1,0 +1,4 @@
+chmod +x ~/start-cloud-drive.sh
+~/start-cloud-drive.sh
+
+ps aux | grep dufs
