@@ -1,10 +1,24 @@
 Listening on:
-  http://10.0.1.16:6666/
+  http://10.0.13.103:6666/
   http://127.0.0.1:6666/
   http://172.17.0.1:6666/
   http://[::1]:6666/
 
-2026-05-29T01:35:48Z INFO - ::1 "GET /" 200
-2026-05-29T01:35:50Z INFO - ::1 "PROPFIND /" 207
-2026-05-29T01:35:52Z INFO - ::1 "PROPFIND /desktop.ini" 404
-2026-05-29T01:35:52Z INFO - ::1 "PROPFIND /" 207
+2026-05-29T12:57:36Z INFO - ::1 "GET /favicon.ico" 404
+2026-05-29T12:57:38Z INFO - ::1 "GET /" 200
+2026-05-29T12:57:48Z INFO - ::1 "GET /My Stop Motion Movie.mp4" 200
+2026-05-29T12:57:48Z INFO - ::1 "GET /My Stop Motion Movie.mp4" 200
+2026-05-29T12:57:48Z INFO - ::1 "GET /My Stop Motion Movie.mp4" 206
+2026-05-29T12:57:49Z INFO - ::1 "GET /My Stop Motion Movie.mp4" 206
+2026-05-29T12:57:49Z INFO - ::1 "GET /My Stop Motion Movie.mp4" 304
+2026-05-29T12:57:49Z INFO - ::1 "GET /My Stop Motion Movie.mp4" 206
+2026-05-29T12:57:50Z INFO - ::1 "GET /My Stop Motion Movie.mp4" 206
+2026-05-29T12:57:50Z INFO - ::1 "GET /My Stop Motion Movie.mp4" 304
+2026-05-29T12:57:51Z INFO - ::1 "GET /My Stop Motion Movie.mp4" 304
+2026-05-29T12:57:54Z INFO - ::1 "GET /My Stop Motion Movie.mp4" 200
+2026-05-29T12:57:54Z INFO - ::1 "GET /My Stop Motion Movie.mp4" 206
+2026-05-29T12:57:54Z INFO - ::1 "GET /My Stop Motion Movie.mp4" 206
+2026-05-29T13:04:20Z INFO - ::1 "GET /" 200
+2026-05-29T13:08:50Z INFO - ::1 "GET /run.txt" 200
+2026-05-29T13:08:52Z INFO - ::1 "GET /run.txt" 200
+2026-05-29T13:09:17Z INFO - ::1 "GET /" 200
